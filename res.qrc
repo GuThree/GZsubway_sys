@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/subway_map.gif</file>
+        <file>img/smallmap.png</file>
+        <file>Myfile.txt</file>
+    </qresource>
+</RCC>
